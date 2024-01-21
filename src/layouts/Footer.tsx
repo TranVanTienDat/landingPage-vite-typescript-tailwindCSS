@@ -1,8 +1,7 @@
-import React from "react";
-import { Button } from "../components";
-import logo from "../assets/images/Logo1.svg";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight, faPaperPlane } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import logo from "../assets/images/Logo1.svg";
+import { Button } from "../components";
 import { Frame } from "../components/Frame";
 
 export const Footer = () => {

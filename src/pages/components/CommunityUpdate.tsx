@@ -1,10 +1,9 @@
-import React from "react";
-import { Button, Heading } from "../../components";
+import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import img1 from "../../assets/images/image 18.png";
 import img2 from "../../assets/images/image 19.png";
 import img3 from "../../assets/images/image 20.png";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import { Button, Heading } from "../../components";
 export const CommunityUpdate = () => {
   return (
     <div className="py-16 my-6">

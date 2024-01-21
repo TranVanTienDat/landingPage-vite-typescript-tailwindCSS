@@ -1,8 +1,7 @@
-import React from "react";
-import { Heading } from "../../components";
-import icon from "../../assets/images/Icon.svg";
 import icon1 from "../../assets/images/Icon (1).svg";
 import icon2 from "../../assets/images/Icon (2).svg";
+import icon from "../../assets/images/Icon.svg";
+import { Heading } from "../../components";
 
 export const Community = () => {
   return (

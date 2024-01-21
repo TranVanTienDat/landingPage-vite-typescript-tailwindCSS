@@ -1,9 +1,8 @@
-import React from "react";
-import { Frame } from "../../components/Frame";
-import img from "../../assets/images/image 9.svg";
-import { ListBrand, SelectionTitle, Button } from "../../components";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import img from "../../assets/images/image 9.svg";
+import { Button, ListBrand, SelectionTitle } from "../../components";
+import { Frame } from "../../components/Frame";
 
 export const Customer = () => {
   return (
