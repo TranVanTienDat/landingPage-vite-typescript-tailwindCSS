@@ -25,6 +25,7 @@ export const Header = () => {
           <div className="ml-[24px]">
             <Button
               title="Register Now"
+              classes="bg-green text-colorWhite"
               icon={<FontAwesomeIcon icon={faArrowRight} />}
             />
           </div>
