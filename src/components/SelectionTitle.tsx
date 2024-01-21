@@ -1,4 +1,3 @@
-import React from "react";
 import { selectionTitleProps } from "../interface";
 
 export const SelectionTitle = ({

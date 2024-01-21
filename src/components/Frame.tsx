@@ -1,4 +1,3 @@
-import React from "react";
 import { childrenProp } from "../interface";
 
 export const Frame = ({ children, classes }: childrenProp) => {

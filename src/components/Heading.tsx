@@ -1,4 +1,3 @@
-import React from "react";
 import { HeadingProps } from "../interface";
 
 export const Heading = ({ title, text }: HeadingProps) => {

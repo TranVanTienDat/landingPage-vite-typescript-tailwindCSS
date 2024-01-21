@@ -1,6 +1,5 @@
-import React from "react";
-import { describeProps } from "../interface";
 import { Button, Heading } from ".";
+import { describeProps } from "../interface";
 import { Frame } from "./Frame";
 
 export const Describe = ({ image, title, text }: describeProps) => {

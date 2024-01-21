@@ -1,11 +1,9 @@
-import React from "react";
 import { SelectionTitle } from ".";
-import member from "../assets/images/member.svg";
-import event from "../assets/images/event.svg";
 import club from "../assets/images/club.svg";
+import event from "../assets/images/event.svg";
+import member from "../assets/images/member.svg";
 import payment from "../assets/images/payment.svg";
 import { Frame } from "./Frame";
-
 export const Achievements = () => {
   return (
     <div className="py-16 my-6 ">
